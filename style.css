@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Urbanist', sans-serif;
+    background-color: #000000;
+}
+
+main {
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #B1ED71;
+}
+
+.sustainability {
+    display: flex;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.img-sustainability {
+    width: 700px;
+    height: 400px;
+}
+
+.about {
+    display: block;
+    margin-right: 20px;
+    margin-left: 100px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #B1ED71;
+}
+
+.about p {
+    padding-top: 5px;
+}
+
+.about-sustainability {
+    padding-top: 50px;
+}
+
+.like-sustainibility {
+    padding-top: 50px;
+}
+
+ul {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.RRR {
+    display: flex;
+}
+
+.reutilizar {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    margin-left: 75px;
+    margin-bottom: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #B1ED71;
+}
+
+.reutilizar h2 {
+    padding: 10px;
+}
+
+.title02 {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
