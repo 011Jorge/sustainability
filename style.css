@@ -18,7 +18,7 @@ h1 {
 
 .sustainability {
     display: flex;
-    padding-top: 100px;
+    padding-top: 50px;
     padding-left: 50px;
 }
 
@@ -57,7 +57,7 @@ ul {
     display: flex;
 }
 
-.reutilizar {
+.reutilizar, .reciclar, .reduzir {
     width: 400px;
     height: 300px;
     text-align: center;
@@ -76,3 +76,36 @@ ul {
     padding-top: 100px;
     padding-bottom: 50px;
 }
+
+#container-information {
+    display: flex;
+}
+
+.information {
+    margin-left: 70px;
+    margin-top: 50px;
+    width: max-content;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid #B1ED71;
+}
+
+.information p {
+    padding: 10px;
+    color: #fff;
+}
+
+#img-cat {
+    width: 400px;
+    display: flex;
+    margin-left: 200px;
+}
+
+#eae {
+    margin-top: 200px;
+    width: auto;
+    height: 200px;
+    background-color: #808080;
+}
+
