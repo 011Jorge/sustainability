@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?família=Urbanista:wght@600&display=swap');
+* {
+    font-family: 'Urbanista', sans-serif;
+    margin: 10px;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: #B1ED71;
+    text-align: center;
+}
+
+main {
+    display: flex;
+}
+
+.projeto {
+    width: 500px;
+    padding-right: 100px;
+}
+
+h2 {
+    color: #B1ED71;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+section {
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    padding-left: 20px;
+    border: 2px solid #B1ED71;
+    color: #fff;
+}
